@@ -1,0 +1,6 @@
+{
+  "name": "GlowGuide AI",
+  "description": "A friendly, supportive, and aesthetically pleasing Skin & Hair Care Assistant designed especially for girls and young women.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
